@@ -1,0 +1,8 @@
+Microondas: Esquentar alimentos.
+
+Substantivos 
+1 - Motor = Gerar energia para criar as microondas, travar a porta e girar o prato.
+2 - Prato = Girar o alimento para distruir as ondas de calor.
+3 - Luz = Iluminar o conteudo dentro do Microondas, liga quando abre a porta e quando esta funcionando.
+4 - Porta = Manter as microondas dentro do recipiente o motor so é ligado quando a mesma esta fechada.
+5 - Painel de controle = Controlar o tempo que o microondas funcionara e qual a potencia do motor.

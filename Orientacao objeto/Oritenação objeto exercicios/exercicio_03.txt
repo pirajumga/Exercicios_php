@@ -1,0 +1,8 @@
+Ram 7: È um rifle de assalto que dispara projeteis 5.56 em alta velocidade.
+
+Substantivos: 
+1 - Munição = Projeteis que serão disparados com o acionamento do gatilho.
+2 - Gatilho = Acionara o disparo dos projeteis.
+3 - Empunhadura = Dar mais apoio para o atirador no disparo.
+4 - Mira = dar mais precisão para onde deseja disparar o projetil.
+5 - Cano Silenciador = Diminuir o barulho provocado pelo disparo do projetil.

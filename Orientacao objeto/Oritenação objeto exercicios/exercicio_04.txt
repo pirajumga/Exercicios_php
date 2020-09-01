@@ -1,0 +1,9 @@
+Garrafa de Agua: Recipiente que armazena agua para ser ingerida.
+
+Substantivos:
+
+1 - Garrafa = Recipiente onde sera armazenado o liquido.
+2 - Agua = Liquido que fica dentro do Recipiente para ser ingerido.
+3 - Tampa = Fechar/abrir o Recipiente para ingerir o liquido.
+4 - Rotulo = Informações sobre o interior do recipiente.
+5 - Fundo da garrafa em "bolinhas" = Manter a garrafa em pé quando colocado em locais retos.

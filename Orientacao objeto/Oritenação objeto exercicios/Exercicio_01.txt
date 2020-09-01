@@ -1,0 +1,11 @@
+Automovel:
+é um meio de locomoção motorizado, ele serve para se mover de uma distancia a outra.
+
+Substantivos: 
+1 - Motor: server para gerar energia para girar a roda e ir para frente ou para tras.
+2 - Roda = Serve para colocar o pneu.
+3 - Pneu = serve para proteger a roda.
+4 - Cambio = serve para trocar as marchar que determinam a força do motor e a sua direção.
+5 - Volante = serve para direcionar a roda.
+
+
